@@ -1,0 +1,1 @@
+Copy-Item -Path C:\Users\$env:UserName\Documents  -Destination D:\$userP -recurse -Force
